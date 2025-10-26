@@ -63,7 +63,7 @@ Platform ini dirancang untuk membantu **kreator, marketer, dan bisnis digital** 
 
 | Developer             | Email                                                     | Portfolio                                                                           | GitHub                                   |
 | --------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------- |
-| **Ridho Gymnastiar Al Rasyid** | [ridhoga971@gmail.com](mailto:ridhoga971@gmail.com)       | [ridhogaa.github.io/ridho-portofolio](https://ridhogaa.github.io/ridho-portofolio/) | [@ridhogaa](https://github.com/ridhogaa) |
+| **Ridho Gymnastiar Al Rasyid** | [ridhoga971@gmail.com](mailto:ridhoga971@gmail.com)       | [ErgeaDev](https://ridhogaa.github.io/ridho-portofolio/) | [@ridhogaa](https://github.com/ridhogaa) |
 | **Rio Griya Putra**   | [riogriyaputra@gmail.com](mailto:riogriyaputra@gmail.com) | [MuchoRio](https://muchorio.github.io)                                              | [@MuchoRio](https://github.com/MuchoRio) |
 
 ---
