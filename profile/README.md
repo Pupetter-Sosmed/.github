@@ -75,17 +75,6 @@ Penggunaan atau distribusi ulang hanya diizinkan dengan izin resmi dari pengemba
 
 ---
 
-## 🌟 Dukungan
-
-Jika Anda menyukai proyek ini:
-
-* ⭐ Beri bintang pada repositori ini
-* 🔄 Bagikan kepada rekan developer
-* 💬 Bantu kontribusi dengan ide atau modul baru
-* ☕ Dukung proyek ini dengan semangat kolaborasi ❤️
-
----
-
 ## 🏗️ Roadmap
 
 | Fitur                      | Status            | Keterangan |
